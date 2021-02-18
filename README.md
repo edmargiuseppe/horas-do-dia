@@ -1,0 +1,1 @@
+<h1>O site atualiza automaticamente a hora e a paisagem correspondente</h1>
